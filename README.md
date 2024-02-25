@@ -52,6 +52,11 @@ git clone https://github.com/Stachu1/SPRO1_multimeter.git
 
 
 ## Schematics
+<img width="900" alt="image" src="https://github.com/Stachu1/SPRO1_multimeter/assets/77758413/52c87763-49a5-4e10-9209-e11495bb89a6">
 
 
 ## PCB
+<img width="900" alt="image" src="https://github.com/Stachu1/SPRO1_multimeter/assets/77758413/2b567e13-5d82-4654-9d8e-e2bb8ccac86f">
+
+## Casing example
+<img width="450" alt="image" src="https://github.com/Stachu1/SPRO1_multimeter/assets/77758413/2afa8b8b-ef3e-4fee-be7c-0f29740d36dc">
